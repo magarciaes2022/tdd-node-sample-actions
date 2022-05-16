@@ -8,15 +8,10 @@ var resta = function suma (a, b) {
 	return a - b;	
 };
 
-
-/* Función producto */
-var resta = function producto (a, b) {
-	return a * b;	
-};
+/* modificacion */
 
 /* Exportación de funciones */
 module.exports = {
 	suma,
-	resta,
-	producto
+	resta
 }
