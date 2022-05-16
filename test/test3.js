@@ -13,3 +13,5 @@ it('comprobar función producto', function() {
   should.equal(operaciones.producto(1,3), 3);
 	should.equal(operaciones.producto(1,-3), -3);
 });
+
+/*15.05.2022*/
